@@ -7,7 +7,7 @@ This guideline outlines the security review process for auditing projects integr
 Adopt a skeptical and proactive approach:
 
 * Assume nothing works as intended until proven otherwise through testing.
-* Prioritize real-world validation over theoretical analysis alone, as cross-chain systems involve complex state interactions that are difficult to assess solely through code review.
+* Prioritize real-world validation over manual review alone, as cross-chain systems involve complex state interactions that are difficult to assess solely through code review.
 * Focus on user experience: Identify pain points or usability issues affecting system adoption or security.
 * Leverage challenges as opportunities: Deployment or configuration difficulties can deepen system understanding and uncover hidden issues.
 
